@@ -1,0 +1,20 @@
+import turtle
+import turtle
+turtle.shape("turtle")
+turtle.color("green")
+turtle.speed(5)
+turtle.forward(30)
+turtle.left(90)
+turtle.forward(30)
+turtle.left(90)
+turtle.forward(30)
+turtle.left(90)
+turtle.forward(30)
+size = 200
+turtle.forward(size)
+turtle.left(90)
+turtle.forward(size)
+turtle.left(90)
+turtle.forward(size)
+turtle.left(90)
+turtle.forward(size)
